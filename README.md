@@ -3,8 +3,11 @@ Experimental Hype Train
 
 ---Required OBS plugins---
 1.) Source Copy - Used to Load The Scenes Easily
+
 https://obsproject.com/forum/resources/source-copy.1261/
+
 2.) Move transition - Used to Move the train cars
+
 https://obsproject.com/forum/resources/move-transition.913/
 
 ---Extracting Files---
