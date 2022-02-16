@@ -12,10 +12,12 @@ https://obsproject.com/forum/resources/source-copy.1261/
 https://obsproject.com/forum/resources/move-transition.913/
 
 ---Extracting Files---
+
 Unzip them to C:/Train
 There's probably a better way of doing this, or a better place to put these files, but I have no idea what I'm doing.
 
 ---Configuring OBS---
+
 Use Source Copy to import Train.json, You can copy the filters from the "Live Play - sitting" scene to wherever you want to put the train, BUT you'll have to make sure it's reflected/replaced in each of the "Train" actions in Streamer.bot
 
 Configuration of Streamer.bot-
